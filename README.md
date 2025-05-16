@@ -21,4 +21,4 @@ Bu proje, React ve Redux Toolkit kullanılarak geliştirilmiş bir basit e-ticar
 
 - ## Ekran Görüntüsü
 
-- ![](ekran.gif)
+ ![](ekran.gif)
